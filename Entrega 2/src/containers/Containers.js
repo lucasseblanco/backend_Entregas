@@ -92,12 +92,12 @@ productoContenedor.getAll()
 .then(data => console.log({data}))
 .catch(error => console.log({error}))
 
-productoContenedor.save({
+/*productoContenedor.save({
     price: 300,
     thumbnail:"hthththth"
 })
 .then(data => console.log({data}))
-.catch(error => console.log({error}))
+.catch(error => console.log({error}))*/
 
 productoContenedor.getById(2)
 .then(data => console.log({data}))
