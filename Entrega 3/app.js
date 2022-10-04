@@ -1,11 +1,7 @@
 import express from 'express';
 
 const app = express();
-const PORT = 3030;
-
-app.get('/',(res,req)=>{
-    res.send('Hola')
-})
+const PORT = 8080;
 
 import fs from 'fs'
 
