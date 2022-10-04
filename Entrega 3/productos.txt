@@ -1,0 +1,32 @@
+[
+   {
+      "price": 300,
+      "thumbnail": "hththtdjkhasdjkaslkjhth",
+      "id": 1,
+      "title": "producto 2"
+   },
+   {
+      "price": 300,
+      "thumbnail": "hththtdjkhasdjkaslkjhth",
+      "id": 2,
+      "title": "producto 2"
+   },
+   {
+      "price": 300,
+      "thumbnail": "hthththth",
+      "id": 3,
+      "title": "producto 3"
+   },
+   {
+      "price": 300,
+      "thumbnail": "hthththth",
+      "id": 4,
+      "title": "producto 4"
+   },
+   {
+      "price": 30,
+      "thumbnail": "hthththth",
+      "id": 5,
+      "title": "producto 5"
+   }
+]
